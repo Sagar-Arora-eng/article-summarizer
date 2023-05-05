@@ -1,4 +1,4 @@
-# Build and Deploy OpenAI-Summariser [Link]: https://main--beamish-hamster-07bc8a.netlify.app/ 
+# Build and Deploy OpenAI-Summariser [Link]: https://jocular-marshmallow-6f79b9.netlify.app/
 ![OpenAI-Summariser](/public/OpenAI-Summarizer.png)
 
 
